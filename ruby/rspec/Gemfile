@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "rspec", "~> 3.11"
+
+gem "httparty", "~> 0.20.0"
+
+gem "solargraph", "~> 0.44.3", :group => :development
